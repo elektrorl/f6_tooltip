@@ -1,0 +1,8 @@
+  .has-tip {
+      border: solid 1px lime;
+      padding-left: 3px;
+      padding-right: 3px;
+      border-radius: 3px 3px 3px 3px;
+      -moz-border-radius: 3px 3px 3px 3px;
+      -webkit-border-radius: 3px 3px 3px 3px;
+  }
